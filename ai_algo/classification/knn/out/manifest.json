@@ -1,0 +1,31 @@
+{
+  "post": "knn_clasificador",
+  "notebook": "/home/ldan/Documents/programming/ai_02h/ai_algo/classification/knn/knn_clasificador.ipynb",
+  "notebook_sha256": "5925c02b7d16ab9668788e4314692e9dad9ef6aa2ac72020517e1204e938beb4",
+  "generated_at": "2026-11-10T21:27:22.509644-06:00",
+  "theme": "concept",
+  "canvas": [
+    1080,
+    1350
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "layout": "title",
+      "png": "slide-01.png"
+    }
+  ],
+  "outputs": [
+    "carousel.pdf",
+    "caption.txt",
+    "hashtags.txt"
+  ],
+  "warnings": [
+    "notebook sin separadores '---': se renderiza una sola slide (title)",
+    "slide 1: code/outputs ignorados en layout 'title'",
+    "slide 1: imagen 515×490 < umbral 1000px",
+    "slide 1: imagen 889×390 < umbral 1000px",
+    "slide 1: imagen 790×590 < umbral 1000px",
+    "slide 1: imagen 590×390 < umbral 1000px"
+  ]
+}

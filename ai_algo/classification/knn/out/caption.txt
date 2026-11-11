@@ -1,0 +1,7 @@
+K-Nearest Neighbors (KNN) — Clasificador
+
+**Repositorio:** `autodidact/classification/knn/`
+
+Guarda este post para más tips como este.
+
+#python #programming #datascience #ia #py #r #data #machinelearning #ml
