@@ -1,0 +1,93 @@
+{
+  "post": "unsupervised_intro",
+  "notebook": "/home/ldan/Documents/programming/ai_02h/ml/unsuppervised/unsupervised_intro.ipynb",
+  "notebook_sha256": "d56536a8c86696742c157e8513a2cc6ad0fe94baad8cc7118bd2c2fe3cfa7062",
+  "generated_at": "2026-11-11T17:13:38.469027-06:00",
+  "theme": "numpy",
+  "canvas": [
+    1080,
+    1350
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "layout": "title",
+      "png": "slide-01.png"
+    },
+    {
+      "index": 2,
+      "layout": "explain",
+      "png": "slide-02.png"
+    },
+    {
+      "index": 3,
+      "layout": "explain",
+      "png": "slide-03.png"
+    },
+    {
+      "index": 4,
+      "layout": "explain",
+      "png": "slide-04.png"
+    },
+    {
+      "index": 5,
+      "layout": "code-plot",
+      "png": "slide-05.png"
+    },
+    {
+      "index": 6,
+      "layout": "code-output",
+      "png": "slide-06.png"
+    },
+    {
+      "index": 7,
+      "layout": "code-output",
+      "png": "slide-07.png"
+    },
+    {
+      "index": 8,
+      "layout": "code-output",
+      "png": "slide-08.png"
+    },
+    {
+      "index": 9,
+      "layout": "code-output",
+      "png": "slide-09.png"
+    },
+    {
+      "index": 10,
+      "layout": "code-output",
+      "png": "slide-10.png"
+    },
+    {
+      "index": 11,
+      "layout": "explain",
+      "png": "slide-11.png"
+    },
+    {
+      "index": 12,
+      "layout": "code-output",
+      "png": "slide-12.png"
+    },
+    {
+      "index": 13,
+      "layout": "code-output",
+      "png": "slide-13.png"
+    },
+    {
+      "index": 14,
+      "layout": "outro",
+      "png": "slide-14.png"
+    }
+  ],
+  "outputs": [
+    "carousel.pdf",
+    "caption.txt",
+    "hashtags.txt"
+  ],
+  "warnings": [
+    "slide 5: imagen 570×413 < umbral 1000px",
+    "slide 6: output de 64L paginado en 5 slides (chunk=13L)",
+    "slide 8: code de 40L paginado en 2 slides"
+  ]
+}

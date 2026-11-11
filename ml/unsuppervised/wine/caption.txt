@@ -1,0 +1,10 @@
+Unsupervised Learning
+
+“if intelligence was a cake, unsupervised learning would be the cake, supervised learning would be the icing on the cake, and reinforcement learning would be the cherry on the cake.” - Yann LeCun
+
+share this post with your friend who is still struggling with this
+
+#python #dataviz #matplotlib
+
+Instagram: __dani_ner1__
+LinkedIn: ldan-dev

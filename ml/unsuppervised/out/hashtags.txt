@@ -1,1 +1,1 @@
-#python #numpy #scientificcomputing #scipy
+#python #machinelearning #datascience #ia #tec #py #ml #ds #dataanalysis #data
