@@ -1,0 +1,10 @@
+Clustering
+
+Es la tarea de identificar instancias similares y organizarlas por grupos, sin disponer previamente de sus etiquetas de clase
+
+share this post with your friend who is still struggling with this
+
+#python #machinelearning #datascience #ia #tec #py #ml #ds #dataanalysis #data
+
+Instagram: __dani_ner1__
+LinkedIn: ldan-dev

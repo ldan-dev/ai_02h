@@ -1,0 +1,41 @@
+{
+  "post": "clustering_intro",
+  "notebook": "/home/ldan/Documents/programming/ai_02h/ml/unsuppervised/clustering_intro.ipynb",
+  "notebook_sha256": "a051864ae5413a490c2421d1c791cb0da2634e3015eef1d1b42946c6e96d27b3",
+  "generated_at": "2026-11-12T16:50:18.749825-06:00",
+  "theme": "concept",
+  "canvas": [
+    1080,
+    1350
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "layout": "title",
+      "png": "slide-01.png"
+    },
+    {
+      "index": 2,
+      "layout": "explain",
+      "png": "slide-02.png"
+    },
+    {
+      "index": 3,
+      "layout": "explain",
+      "png": "slide-03.png"
+    },
+    {
+      "index": 4,
+      "layout": "outro",
+      "png": "slide-04.png"
+    }
+  ],
+  "outputs": [
+    "carousel.pdf",
+    "caption.txt",
+    "hashtags.txt"
+  ],
+  "warnings": [
+    "slide 3: interpretado como contenido, no como outro (markdown sin palabras de despedida). Se añade outro sintético. Usa el tag 'force:layout-outro' si querías que fuera el outro."
+  ]
+}
