@@ -1,0 +1,129 @@
+{
+  "post": "knn",
+  "notebook": "/home/ldan/Documents/programming/ai_02h/ml/unsuppervised/knn.ipynb",
+  "notebook_sha256": "6d2c739f316203ad5478f41b58a81a6ba87e19f8c37e4cc50128d678d3f935bc",
+  "generated_at": "2026-11-16T17:49:20.568015-06:00",
+  "theme": "concept",
+  "canvas": [
+    1080,
+    1350
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "layout": "title",
+      "png": "slide-01.png"
+    },
+    {
+      "index": 2,
+      "layout": "explain",
+      "png": "slide-02.png"
+    },
+    {
+      "index": 3,
+      "layout": "explain",
+      "png": "slide-03.png"
+    },
+    {
+      "index": 4,
+      "layout": "explain",
+      "png": "slide-04.png"
+    },
+    {
+      "index": 5,
+      "layout": "code",
+      "png": "slide-05.png"
+    },
+    {
+      "index": 6,
+      "layout": "code-output",
+      "png": "slide-06.png"
+    },
+    {
+      "index": 7,
+      "layout": "code-plot",
+      "png": "slide-07.png"
+    },
+    {
+      "index": 8,
+      "layout": "code-output",
+      "png": "slide-08.png"
+    },
+    {
+      "index": 9,
+      "layout": "code-output",
+      "png": "slide-09.png"
+    },
+    {
+      "index": 10,
+      "layout": "explain",
+      "png": "slide-10.png"
+    },
+    {
+      "index": 11,
+      "layout": "code-output",
+      "png": "slide-11.png"
+    },
+    {
+      "index": 12,
+      "layout": "code-plot",
+      "png": "slide-12.png"
+    },
+    {
+      "index": 13,
+      "layout": "explain",
+      "png": "slide-13.png"
+    },
+    {
+      "index": 14,
+      "layout": "code-output",
+      "png": "slide-14.png"
+    },
+    {
+      "index": 15,
+      "layout": "code-plot",
+      "png": "slide-15.png"
+    },
+    {
+      "index": 16,
+      "layout": "explain",
+      "png": "slide-16.png"
+    },
+    {
+      "index": 17,
+      "layout": "explain",
+      "png": "slide-17.png"
+    },
+    {
+      "index": 18,
+      "layout": "explain",
+      "png": "slide-18.png"
+    },
+    {
+      "index": 19,
+      "layout": "explain",
+      "png": "slide-19.png"
+    },
+    {
+      "index": 20,
+      "layout": "explain",
+      "png": "slide-20.png"
+    },
+    {
+      "index": 21,
+      "layout": "outro",
+      "png": "slide-21.png"
+    }
+  ],
+  "outputs": [
+    "carousel.pdf",
+    "caption.txt",
+    "hashtags.txt"
+  ],
+  "warnings": [
+    "slide 20: interpretado como contenido, no como outro (markdown sin palabras de despedida). Se añade outro sintético. Usa el tag 'force:layout-outro' si querías que fuera el outro.",
+    "slide 7: imagen 554×453 < umbral 1000px",
+    "slide 12: imagen 547×413 < umbral 1000px",
+    "slide 15: imagen 567×433 < umbral 1000px"
+  ]
+}
