@@ -1,0 +1,95 @@
+{
+  "post": "k-medoids",
+  "notebook": "/home/ldan/Documents/programming/ai_02h/ml/unsuppervised/k-medoids.ipynb",
+  "notebook_sha256": "64ac5017944f362bbe4e4774e5929edbcb62f957e6165be010eaf5fd1e3a1957",
+  "generated_at": "2026-11-16T20:59:11.733353-06:00",
+  "theme": "concept",
+  "canvas": [
+    1080,
+    1350
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "layout": "title",
+      "png": "slide-01.png"
+    },
+    {
+      "index": 2,
+      "layout": "explain",
+      "png": "slide-02.png"
+    },
+    {
+      "index": 3,
+      "layout": "explain",
+      "png": "slide-03.png"
+    },
+    {
+      "index": 4,
+      "layout": "explain",
+      "png": "slide-04.png"
+    },
+    {
+      "index": 5,
+      "layout": "code",
+      "png": "slide-05.png"
+    },
+    {
+      "index": 6,
+      "layout": "code-output",
+      "png": "slide-06.png"
+    },
+    {
+      "index": 7,
+      "layout": "code-plot",
+      "png": "slide-07.png"
+    },
+    {
+      "index": 8,
+      "layout": "code-output",
+      "png": "slide-08.png"
+    },
+    {
+      "index": 9,
+      "layout": "code-plot",
+      "png": "slide-09.png"
+    },
+    {
+      "index": 10,
+      "layout": "code-output",
+      "png": "slide-10.png"
+    },
+    {
+      "index": 11,
+      "layout": "code",
+      "png": "slide-11.png"
+    },
+    {
+      "index": 12,
+      "layout": "code-output",
+      "png": "slide-12.png"
+    },
+    {
+      "index": 13,
+      "layout": "code-plot",
+      "png": "slide-13.png"
+    },
+    {
+      "index": 14,
+      "layout": "outro",
+      "png": "slide-14.png"
+    }
+  ],
+  "outputs": [
+    "carousel.pdf",
+    "caption.txt",
+    "hashtags.txt"
+  ],
+  "warnings": [
+    "slide 13: code/outputs ignorados en layout 'outro'",
+    "slide 13: interpretado como contenido, no como outro (markdown sin palabras de despedida). Se añade outro sintético. Usa el tag 'force:layout-outro' si querías que fuera el outro.",
+    "slide 7: imagen 567×454 < umbral 1000px",
+    "slide 9: imagen 614×469 < umbral 1000px",
+    "slide 13: imagen 614×470 < umbral 1000px"
+  ]
+}
