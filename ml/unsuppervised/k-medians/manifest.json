@@ -1,0 +1,144 @@
+{
+  "post": "k-medians",
+  "notebook": "/home/ldan/Documents/programming/ai_02h/ml/unsuppervised/k-medians.ipynb",
+  "notebook_sha256": "27d84c760c124bad08ca1ce84ac7fcc18f8dd6bf65b9af2ee82d3daa8bd05771",
+  "generated_at": "2026-11-17T10:41:06.519350-06:00",
+  "theme": "concept",
+  "canvas": [
+    1080,
+    1350
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "layout": "title",
+      "png": "slide-01.png"
+    },
+    {
+      "index": 2,
+      "layout": "explain",
+      "png": "slide-02.png"
+    },
+    {
+      "index": 3,
+      "layout": "explain",
+      "png": "slide-03.png"
+    },
+    {
+      "index": 4,
+      "layout": "code",
+      "png": "slide-04.png"
+    },
+    {
+      "index": 5,
+      "layout": "code",
+      "png": "slide-05.png"
+    },
+    {
+      "index": 6,
+      "layout": "code",
+      "png": "slide-06.png"
+    },
+    {
+      "index": 7,
+      "layout": "code",
+      "png": "slide-07.png"
+    },
+    {
+      "index": 8,
+      "layout": "code",
+      "png": "slide-08.png"
+    },
+    {
+      "index": 9,
+      "layout": "code",
+      "png": "slide-09.png"
+    },
+    {
+      "index": 10,
+      "layout": "code",
+      "png": "slide-10.png"
+    },
+    {
+      "index": 11,
+      "layout": "code",
+      "png": "slide-11.png"
+    },
+    {
+      "index": 12,
+      "layout": "code",
+      "png": "slide-12.png"
+    },
+    {
+      "index": 13,
+      "layout": "code",
+      "png": "slide-13.png"
+    },
+    {
+      "index": 14,
+      "layout": "code",
+      "png": "slide-14.png"
+    },
+    {
+      "index": 15,
+      "layout": "code-output",
+      "png": "slide-15.png"
+    },
+    {
+      "index": 16,
+      "layout": "code-output",
+      "png": "slide-16.png"
+    },
+    {
+      "index": 17,
+      "layout": "code-plot",
+      "png": "slide-17.png"
+    },
+    {
+      "index": 18,
+      "layout": "code",
+      "png": "slide-18.png"
+    },
+    {
+      "index": 19,
+      "layout": "code-plot",
+      "png": "slide-19.png"
+    },
+    {
+      "index": 20,
+      "layout": "code-output",
+      "png": "slide-20.png"
+    },
+    {
+      "index": 21,
+      "layout": "code-output",
+      "png": "slide-21.png"
+    },
+    {
+      "index": 22,
+      "layout": "code-output",
+      "png": "slide-22.png"
+    },
+    {
+      "index": 23,
+      "layout": "code-plot",
+      "png": "slide-23.png"
+    },
+    {
+      "index": 24,
+      "layout": "outro",
+      "png": "slide-24.png"
+    }
+  ],
+  "outputs": [
+    "carousel.pdf",
+    "caption.txt",
+    "hashtags.txt"
+  ],
+  "warnings": [
+    "slide 8: imagen 567×433 < umbral 1000px",
+    "slide 10: imagen 614×448 < umbral 1000px",
+    "slide 14: imagen 614×470 < umbral 1000px",
+    "slide 5: code de 232L paginado en 10 slides"
+  ]
+}
