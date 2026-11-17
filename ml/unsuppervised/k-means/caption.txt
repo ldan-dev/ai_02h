@@ -1,6 +1,6 @@
 K-MEANS
 
-- Un algoritmo de aprendizaje no supervisado de la categoría de **métodos particionales**
+- Un algoritmo de aprendizaje no supervisado de la categoría de métodos particionales
 
 share this post with your friend who is still struggling with this
 
